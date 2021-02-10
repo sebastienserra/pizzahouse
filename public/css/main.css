@@ -1,0 +1,40 @@
+body {
+background-color: lightgray;
+}
+section{
+    height:92vh;
+    text-align: center;
+    align-items: center;;
+}
+footer{
+    background: #eee;
+    padding: 20px;
+    text-align:center;
+    position: relative;
+    margin-bottom: 0;
+}
+img{
+    width:50%;
+    height:auto;
+    border-radius:10px;
+    box-shadow: 1px 1px 2px black, 0 0 25px grey;
+}
+.restaurant-name{
+    font-size: 2.5em;
+    text-transform: uppercase;
+    position: relative;
+    margin: 0 auto;
+    align-items: center;
+    padding:20px;
+}
+.title{
+    font-size: 1.5em;
+    text-transform: uppercase;
+    border-bottom: 2px solid;
+    padding: 12px 0;
+    width: 40%;
+    position: relative;
+    margin: 0 auto;
+    text-align: center;
+    align-items: center;
+}

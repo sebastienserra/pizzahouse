@@ -13,6 +13,6 @@
     </head>
     <body>
     @yield('content')
-    <footer>Copyright 2021 Pizza House</footer>
+    <!-- <footer>Copyright 2021 Pizza House</footer> -->
     </body>
 </html>
